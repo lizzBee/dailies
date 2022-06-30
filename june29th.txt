@@ -1,0 +1,3 @@
+A E B
+B W A
+A N C
