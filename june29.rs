@@ -45,6 +45,7 @@ impl<'lt> Compass<'lt> {
 }
 
 fn main() {
+
   let filename= "/home/lizz/summer2022/dailies/june29.txt";
   let file = File::open(filename).unwrap();
   let reader = BufReader::new(file);
